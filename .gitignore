@@ -1,0 +1,7 @@
+#ignore files that end in _KA.ipynb
+*_KA.ipynb
+*_KA*
+*.ipynb_checkpoints
+*.DS_Store
+*.orig
+sla_Bermuda_*.png
